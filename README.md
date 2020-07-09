@@ -10,7 +10,7 @@
 - Data Cleaning
 - Data Visualization
 - EDA 
-- Algorithm applied :
+### Algorithm applied :
   * Random Forest Regressor
   
  ### To run application on your system
